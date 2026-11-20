@@ -1,0 +1,6 @@
+# Carpeta de importacion de Godot
+.godot/
+# Exportaciones
+export_presets.cfg
+*.exe
+*.pck
